@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="orange" type="color">#FD5F00</item>
+    <item name="white" type="color">#FFFFFF</item>
+    <item name="holo_blue" type="color">#33b5e5</item>
+</resources>
